@@ -16,6 +16,15 @@ import cpw.mods.fml.common.gameevent.PlayerEvent;
 
 public class LoginHandler {
     // spotless:off
+
+    // TODO: Add your event handlers or login logic here
+    // Example:
+    /*
+    @SubscribeEvent
+    public void onPlayerLogin(PlayerEvent.PlayerLoggedInEvent event) {
+        // your code
     }
+    */
+
     // spotless:on
 }
